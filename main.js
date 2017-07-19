@@ -1,3 +1,4 @@
+//capitalize the first letter of each word. Words will be separated by only one space.
 function LetterCapitalize(str) {
 	// body...
 	if(isNaN(str)){
